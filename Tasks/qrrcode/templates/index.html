@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>qrcode image</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <th>id</th>
+            <th>product_name</th>
+            <th>product_code</th>
+            <th>pack_code</th>
+            <th>qr_code</th>
+        </tr>
+        {% for i in image %}
+        <tr>
+            <td>{{i.id}}</td>
+            <td>{{i.product_name}}</td>
+            <td>{{i.product_code}}</td>
+            <td>{{i.pack_code}}</td>
+            <td><img src= "{{i.qr_code.url}}">
+            <td>
+<!--                <img class="sealImage" src=" static {file:////home/manikanta/Pictures/image.jpg.png}">-->
+            </td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
