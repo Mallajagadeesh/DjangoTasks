@@ -1,0 +1,532 @@
+Age as on 01.01.2023
+
+Assembly Constituency No and Name : 30-Anakapalle
+
+Section No and Name : 1-RAMALAYAM VEEDHI
+
+TGM0769240
+Name : APPALANAIDU GOPISHETTY
+Father's Name: APPARAO -
+House Number : 6-102
+
+Age: 33 Gender: MALE Photo is
+
+Available
+
+TGM2003119
+Name: SRINIVASARAO GOPISETTY -
+Father's Name : APPARAO -
+House Number: 6-102/1
+
+Age: 42 Gender: MALE Photo is
+
+Available
+
+KCZ1916014
+Name: CHINJEEVI APPARAO MEDISH
+Father's Name : MUSALAIAH -
+House Number : 6-104
+
+Age: 35 Gender: MALE Photo is
+
+Available
+
+TGM2003143
+Name : MUSALAIAH MEDISHETTI -
+Father's Name : APPALASWAMI -
+House Number : 6-104
+
+Age: 84 Gender: MALE Photo is
+
+Available
+
+TGM1226513
+Name - USHA MEDISETTI
+Father's Name - GOVINDARAJU
+MEDISETTI
+House Number : 6-104/1
+Age: 25 Gender: FEMALE
+
+Photo is
+Available
+
+TGM1465541
+Name : raja rajeswari medisetti
+Father's Name : narayanamma
+medisetti
+House Number: 6-105
+Age: 26 Gender: FEMALE
+
+Photo is
+Available
+
+KCZ0596387
+Name : SANYASAMMA MEDISH -
+Husband's Name : PEDDA MUSALAIAH
+
+Photo is
+Available
+
+House Number: 6-105/1
+Age: 84 Gender: FEMALE
+
+TGM2003168
+Name: VENKATARAMANA
+KANUMAREDDY -
+Father's Name: THATHA-
+House Number: 6-106
+Age: 48 Gender: MALE
+
+Photo is
+Available
+
+TGM2003184
+Name : RAJU KANUMAREDDY -
+Father's Name: THATHA-
+House Number : 6-106/1
+
+Age: 42 Gender: MALE Photo is
+
+Available
+
+KCZ1916469
+Name: CHILUKU RAJU ARIGA
+Father's Name : APPARAO -
+House Number: 6-108
+
+Age: 35 Gender: MALE Photo is
+
+Available
+
+TGM1093749
+Name : LALITHA GOPISETTY
+Husband's Name : APPALANAIDU -
+House Number : 6-102
+
+Age: 27 Gender: FEMALE Photo is
+
+Available
+
+TGMO0175067
+Name : KRISHNAKUMAR GOPISETTY
+Father's Name : VENKUNAIDU -
+House Number: 6-103
+Age: 34 Gender: MALE Photo is
+Available
+
+TGMO0768713
+Name: SURYAKALAVATHI
+MEDISHETTY
+Husband's Name : CHIRANJEEVI
+APPARAO -
+House Number : 6-104
+Age: 34 Gender: FEMALE
+
+Photo is
+Available
+
+KCZ0596502
+Name: KRISHANAVENI MEDISHETTI -
+Husband's Name : GOVINDARAJU -
+House Number : 6-104/1
+
+Age: 38 Gender: FEMALE Photo is
+
+Available
+
+TGM0768648
+Name: BHAVANI MEDISHETTY
+Husband's Name: RAJU -
+House Number: 6-105
+
+Age: 32 Gender: FEMALE Photo is
+
+Available
+
+TGM2003150
+Name : NARAYANAMMA MEDISH -
+Husband's Name : VARAHALU -
+House Number : 6-105
+
+Age: 52 Gender: FEMALE Photo is
+
+Available
+
+KCZ0596460
+Name: KANUMAREDDY MANG -
+Husband's Name : VENKATARAMANA -
+House Number: 6-106
+
+Age: 39 Gender: FEMALE Photo is
+
+Available
+
+KCZ0596494
+Name - KANUMAREDDY LAKSHMI -
+Husband's Name: RAJU -
+House Number : 6-106/1
+
+Age: 36 Gender: FEMALE Photo is
+
+Available
+
+TGM0174920
+Name: NAGMNI GALLA
+Husband's Name: SATHYA APPARAO
+
+Photo is
+Available
+
+House Number: 6-107
+Age: 37 Gender: FEMALE
+
+TGMO0175125
+Name: LAKSHMI ARIGA
+Husband's Name : CHILUKARAJU -
+House Number: 6-108
+
+Age: 35 Gender: FEMALE Photo is
+
+Available
+
+# - Modified as per supplement Date of Publication:-05-01-2023
+
+Part number : 251
+
+TGM0405266
+Name : KUMARI GOPISETTY
+Husband's Name: SRINIVASARAO -
+House Number : 6-102/1
+
+Age: 36 Gender: FEMALE Photo is
+
+Available
+
+TGM2003127
+Name : APPALANARASAMMA
+GOPISETTY -
+Husband's Name : VENKUNAYDU -
+House Number : 6-103
+Age: 69 Gender: FEMALE
+
+Photo is
+Available
+
+TGM2003135
+Name : NARAYANAMMA MEDISHETTI -
+Husband's Name : MUSALAIAH -
+House Number : 6-104
+
+Age: 76 Gender: FEMALE Photo is
+
+Available
+
+KCZ0596585
+Name: GOVINDARAJU MEDISHETTI -
+Father's Name : MUSALAIAH -
+House Number : 6-104/1
+
+Age: 48 Gender: MALE Photo is
+
+Available
+
+TGM0879544
+Name : JANAKI RAM MEDISETTY
+Father's Name : VARAHALU NAIDU -
+House Number : 6-105
+
+Age: 30 Gender: MALE Photo is
+
+Available
+
+KCZ0596379
+Name: RAJU MEDISH -
+Father's Name : PEDDA MUSALAIAH -
+House Number : 6-105/1
+
+Age: 43 Gender: MALE Photo is
+
+Available
+
+TGM1468768
+Name : Naga Ganesh Kanumareddy
+Father's Name: Venkataramana
+Kanumareddy
+House Number : 6-106
+Age: 21 Gender: MALE
+
+Photo is
+Available
+
+TGM2003176
+Name: KASULAMMA KANUMAREDDY
+
+Husband's Name: THATHA-
+House Number : 6-106/1
+Age: 67 Gender: FEMALE
+
+Photo is
+Available
+
+TGM2003192
+Name : SANYASAMMA GALLA -
+Husband's Name : SURIBABU -
+House Number : 6-107
+
+Age: 64 Gender: FEMALE Photo is
+
+Available
+
+TGM0594895
+Name :
+VENKATASATYASRINIVASARAO ARIGA
+Father's Name : APPARAO -
+House Number : 6-108/1
+Age: 36 Gender: MALE
+
+Photo is
+Available
+
+Total Pages 26 - Page 10
+
+KCZ1916469
+Name: CHILUKU RAJU ARIGA
+Father's Name : APPARAO -
+House Number: 6-108
+
+Age: 35 Gender: MALE Photo is
+Available
+
+TGMO0175125
+Name: LAKSHMI ARIGA
+Husband's Name : CHILUKARAJU -
+House Number: 6-108
+
+Age: 35 Gender: FEMALE Photo is
+Available
+
+TGM0594895
+Name -
+VENKATASATYASRINIVASARAO ARIGA
+Father's Name : APPARAO -
+
+House Number : 6-108/1 Photo is
+Age: 36 Gender: MALE Available
+
+TGM2003184
+Name: RAJU KANUMAREDDY -
+Father's Name: THATHA-
+House Number: 6-106/1
+
+Age: 42 Gender: MALE Photo is
+Available
+
+TGMO0174920
+Name : NAGMNI GALLA
+Husband's Name: SATHYA APPARAO
+
+House Number - 6-107 Photo is
+Age: 37 Gender: FEMALE Available
+
+TGM2003192
+Name : SANYASAMMA GALLA -
+Husband's Name: SURIBABU -
+House Number : 6-107
+
+Age: 64 Gender: FEMALE Photo is
+Available
+
+TGM2003168
+Name: VENKATARAMANA
+KANUMAREDDY -
+Father's Name : THATHA-
+
+House Number : 6-106 Photo is
+Age: 48 Gender: MALE Available
+
+KCZ0596494
+Name : KANUMAREDDY LAKSHMI -
+Husband's Name : RAJU -
+House Number : 6-106/1
+
+Age: 36 Gender: FEMALE Photo is
+Available
+
+TGM2003176
+Name: KASULAMMA KANUMAREDDY
+
+Husband's Name: THATHA-
+
+House Number : 6-106/1 Photo is
+Age: 67 Gender: FEMALE Available
+
+KCZ0596387
+
+Name : SANYASAMMA MEDISH -
+Husband's Name : PEDDA MUSALAIAH
+
+House Number: 6-105/1 Photo is
+Age: 84 Gender: FEMALE Available
+
+KCZ0596460
+Name - KANUMAREDDY MANG -
+Husband's Name : VENKATARAMANA -
+House Number: 6-106
+
+Age: 39 Gender: FEMALE Photo is
+Available
+
+TGM1468768
+
+Name : Naga Ganesh Kanumareddy
+Father's Name: Venkataramana
+Kanumareddy
+
+House Number : 6-106 Photo is
+Age: 21 Gender: MALE Available
+
+TGM1465541
+Name : raja rajeswari medisetti
+Father's Name: narayanamma
+medisetti
+
+House Number : 6-105 Photo is
+Age: 26 Gender: FEMALE Available
+
+TGM2003150
+Name : NARAYANAMMA MEDISH -
+Husband's Name : VARAHALU -
+House Number : 6-105
+
+Age: 52 Gender: FEMALE Photo is
+Available
+
+KCZ0596379
+Name : RAJU MEDISH -
+Father's Name : PEDDA MUSALAIAH -
+House Number : 6-105/1
+
+Age: 43 Gender: MALE Photo is
+Available
+
+TGM1226513
+Name : USHA MEDISETTI
+Father's Name :- GOVINDARAJU
+MEDISETTI
+
+House Number : 6-104/1 Photo is
+Age: 25 Gender: FEMALE Available
+
+TGMO0768648
+Name - BHAVANI MEDISHETTY
+Husband's Name : RAJU -
+House Number: 6-105
+
+Age: 32 Gender: FEMALE Photo is
+Available
+
+TGM0879544
+Name : JANAKI RAM MEDISETTY
+Father's Name - VARAHALU NAIDU -
+House Number : 6-105
+
+Age: 30 Gender: MALE Photo is
+Available
+
+TGM2003143
+Name - MUSALAIAH MEDISHETTI -
+Father's Name : APPALASWAMI -
+House Number: 6-104
+
+Age: 84 Gender: MALE Photo is
+Available
+
+KCZ0596502
+Name - KRISHANAVENI MEDISHETTI -
+Husband's Name : GOVINDARAJU -
+House Number: 6-104/1
+
+Age: 38 Gender: FEMALE Photo is
+Available
+
+KCZ0596585
+Name - GOVINDARAJU MEDISHETTI -
+Father's Name : MUSALAIAH -
+House Number: 6-104/1
+
+Age: 48 Gender: MALE Photo is
+Available
+
+KCZ1916014
+Name: CHINJEEVI APPARAO MEDISH
+Father's Name : MUSALAIAH -
+House Number : 6-104
+
+Age: 35 Gender: MALE Photo is
+Available
+
+TGMO0768713
+Name: SURYAKALAVATHI
+MEDISHETTY
+Husband's Name : CHIRANJEEVI
+
+APPARAO - Photo is
+House Number : 6-104 Available
+Age: 34 Gender: FEMALE
+
+TGM2003135
+Name : NARAYANAMMA MEDISHETTI -
+Husband's Name : MUSALAIAH -
+House Number : 6-104
+
+Age: 76 Gender: FEMALE Photo is
+Available
+
+TGM2003119
+Name: SRINIVASARAO GOPISETTY -
+Father's Name : APPARAO -
+House Number: 6-102/1
+
+Age: 42 Gender: MALE Photo is
+Available
+
+TGMO01 75067
+Name: KRISHNAKUMAR GOPISETTY
+Father's Name : VENKUNAIDU -
+House Number: 6-103
+
+Age: 34 Gender: MALE Photo is
+Available
+
+TGM2003127
+Name : APPALANARASAMMA
+GOPISETTY -
+Husband's Name: VENKUNAYDU -
+
+House Number : 6-103 Photo is
+Age: 69 Gender: FEMALE Available
+
+TGMO0769240
+Name : APPALANAIDU GOPISHETTY
+Father's Name : APPARAO -
+House Number : 6-102
+
+Age: 33 Gender: MALE Photo is
+Available
+
+TGM1093749
+Name : LALITHA GOPISETTY
+Husband's Name : APPALANAIDU -
+House Number : 6-102
+
+Age: 27 Gender: FEMALE Photo is
+Available
+
+TGM0405266
+Name : KUMARI GOPISETTY
+Husband's Name: SRINIVASARAO -
+House Number : 6-102/1
+
+Age: 36 Gender: FEMALE Photo is
+Available
+
