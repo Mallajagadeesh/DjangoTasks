@@ -1,0 +1,69 @@
+from pymongo import MongoClient
+import pytesseract
+
+import cv2
+import os
+from pymongo import MongoClient
+
+client = MongoClient()
+he = []
+
+import urllib.parse
+
+Username = 'devops_admin'
+Password = 'Devops1234'
+username = urllib.parse.quote_plus(Username)
+password = urllib.parse.quote_plus(Password)
+# Connect with the portnumber and host
+client = MongoClient('mongodb://localhost:27017/')
+# client = MongoClient('mongodb://%s:%s@13.234.70.44:27017' % (username,password))
+
+# Access database
+mydatabase = client['Data_conversion09']
+
+# Access collection of the database
+mycollection = mydatabase['devi3']
+mycollection2 = mydatabase['yem144']
+myimage = mydatabase['test2']
+
+# dictionary to be added in the database
+rec = {
+    'title': 'MongoDB and Python',
+    'description': 'MongoDB is no SQL database',
+    'tags': ['mongodb', 'database', 'NoSQL'],
+    'viewers': 104
+}
+# Connect to the MongoDB server
+client = MongoClient('mongodb://localhost:27017/')
+
+db = client['Data_conversion009']
+collection = db['Yelamanchili tatoal data']  ## voter details collection table
+
+db3 = client['Data_conversion3']
+collection3 = db3['yemserialnumber']  # serial number add
+yal_data_seri_num_collection = db['Yelamanchili mixing Total Data']  # serial number add
+
+data = collection.find()
+# data2 = collection2.find()
+data3 = collection3.find()
+
+for i in range(211266):
+    object = data[i]
+    yal_voter_slip = object['votere_slip']
+    print(yal_voter_slip)
+
+    yal_sriali_num = collection3.find_one({'votere_slip': yal_voter_slip})
+    serial_number = yal_sriali_num['Serial_number']
+    print(serial_number)
+
+    object['Serial_Number'] = serial_number
+
+    print(object)
+    yal_data_seri_num_collection.insert_one(object)
+
+
+
+
+
+
+ = mycollection2.insert_one(dic)
