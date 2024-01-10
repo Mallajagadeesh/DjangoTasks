@@ -330,7 +330,7 @@ from pymongo import MongoClient
 mongo_uri = "mongodb://localhost:27017"
 
 # Database and collection names
-database_name = "your give the dabasename"
+database_name = "2024_TOTALVOTERDATA"
 collection_name = "total_voter_data"
 
 # Connect to MongoDB
